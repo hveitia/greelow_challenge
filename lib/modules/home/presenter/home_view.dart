@@ -5,7 +5,6 @@ import 'package:greelow/modules/home/bloc/home_bloc.dart';
 import 'package:greelow/modules/home/presenter/widgets/contact_list.dart';
 import 'package:greelow/shared/widgets/icon_from_svg.dart';
 
-import 'widgets/contact_item.dart';
 import 'widgets/tiles_container.dart';
 
 import 'package:flutter_bloc/flutter_bloc.dart';
